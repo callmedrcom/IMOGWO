@@ -1,7 +1,7 @@
 # IMOGWO
 This is code for paper Ultra-short-term wind power forecast under extreme conditions based on multi-decomposition and multi-objective optimization. 
 
-Code will be added after published
+Code will be added after published. For review only, the CODE.zip contain the main code in this paper, the password is the name of the first author(the first letter capitalised, first name + space + last name)
 
 
 About folder:
