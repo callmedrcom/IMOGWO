@@ -1,7 +1,7 @@
 # IMOGWO
 This is code for paper Ultra-short-term wind power forecast under extreme conditions based on multi-decomposition and multi-objective optimization. 
 
-Code will be added after published.
+Code will be added after published. For other purpose, please contact me at han_yuchao@163.com. 
 
 About folder:
 folder IMOGWO is the comparison of Multi-objective optimisation algorithm
